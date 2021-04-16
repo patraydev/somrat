@@ -4,8 +4,12 @@ first_name: Pat Ray
 last_name: ''
 bg_image: images/backgrounds/full-nav-bg.jpg
 occupations:
+- ''
+- Full-Stack Developer
+- Spirits Industry Professional
 - Web Developer
-- Menu Consultant
+- Bar Manager
+- Data Analyst
 - Cocktologist
 slider_images:
 - images/slider/slider-1.jpg
