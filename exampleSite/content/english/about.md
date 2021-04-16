@@ -12,7 +12,8 @@ experience:
   - name: Software Engineering Fellow
     company: General Assembly
     duration: "2021"
-    content: '420 hours of high-intensity coding education in a 3-month program. '
+    content: 420 hours of high-intensity coding education in a 3-month program. Built
+      and deployed 4 functioning web apps using 4 different stacks.
   - name: Bar Manager
     company: The Violet Hour
     duration: 2016-2020
