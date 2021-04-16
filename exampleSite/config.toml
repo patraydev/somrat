@@ -40,9 +40,6 @@ home = ["HTML"]
 author = "somrat"
 description = "This is meta description"
 favicon = "images/favicon.ico"
-logo_dark = "images/logo-dark.png"
-logo_light = "images/logo.png"
-logo_width = "150px"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
