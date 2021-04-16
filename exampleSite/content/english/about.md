@@ -9,11 +9,10 @@ experience:
   enable: true
   title: EXPERIENCE
   experience_list:
-  - name: Web Developer
-    company: Fiverr.com
-    duration: 2016-2018
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
+  - name: Software Engineering Fellow
+    company: General Assembly
+    duration: "2021"
+    content: '420 hours of high-intensity coding education in a 3-month program. '
   - name: Bar Manager
     company: The Violet Hour
     duration: 2016-2020
@@ -35,6 +34,6 @@ custom_attributes: ''
 custom_css: ''
 
 ---
-Hi I'm Pat Ray, Full-Stack Web Developer. I'm coming in hot from a background managing a James Beard award-winning high-volume cocktail bar; my goal is and has always been to set up my team with the tools that they need to provide world-class experiences. 
+I'm Pat Ray, Full-Stack Web Developer. I'm coming in hot from an industry-leading coding bootcamp with a background in management at a James Beard award-winning high-volume cocktail bar; my goal is and has always been to set up my team with the tools that they need to maximize profits while  providing world-class experiences. 
 
 I'm looking to continue to grow my technical skills and use my hard-won industry experience and skills in a new context - let's connect!
