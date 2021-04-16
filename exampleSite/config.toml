@@ -27,11 +27,6 @@ name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 4
-[[Languages.en.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 6
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
