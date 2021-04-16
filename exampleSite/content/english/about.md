@@ -28,8 +28,8 @@ skill:
     percentage: 92%
   - name: Express / MongoDB
     percentage: 89%
-  - name: Database Management
-    percentage: 90%
+  - name: Rails / PostgreSQL
+    percentage: 85%
   - name: Wordpress
     percentage: 70%
 custom_class: ''
