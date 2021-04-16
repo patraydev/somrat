@@ -33,7 +33,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "somrat"
-description = "This is meta description"
+description = "This is my portfolio"
 favicon = "images/favicon.ico"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
