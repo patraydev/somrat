@@ -30,8 +30,8 @@ skill:
     percentage: 89%
   - name: Rails / PostgreSQL
     percentage: 85%
-  - name: Wordpress
-    percentage: 70%
+  - name: Motivation
+    percentage: 100%
 custom_class: ''
 custom_attributes: ''
 custom_css: ''
