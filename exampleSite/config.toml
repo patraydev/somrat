@@ -5,7 +5,7 @@ googleAnalytics = ""
 paginate = "6"
 summaryLength = "10"
 theme = "somrat"
-title = "Somrat | Hugo Portfolio Template"
+title = "Pat Ray"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
@@ -28,42 +28,6 @@ pre = "#"
 url = "portfolio"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 6
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[[Languages.fr.menu.main]]
-name = "About me"
-pre = "#"
-url = "about"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
-[[Languages.fr.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
