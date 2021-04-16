@@ -2,7 +2,9 @@
 title: Cocktail Build Beautifier
 date: 2020-05-12T12:14:34.000+06:00
 image: images/portfolio/item2.jpg
-categories: []
+categories:
+- Cocktails
+- Database
 description: Cocktail Build Beautifier
 project_info:
 - name: Project Link
