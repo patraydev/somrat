@@ -24,8 +24,8 @@ skill:
   enable: true
   title: SKILL
   skill_list:
-  - name: Web Development
-    percentage: 98%
+  - name: React
+    percentage: 92%
   - name: Graphic Design
     percentage: 85%
   - name: Database Management
