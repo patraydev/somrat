@@ -3,7 +3,7 @@ title: WHO AM I?
 image: images/backgrounds/portrait.jpg
 button:
   enable: true
-  label: DOWNLOAD MY CV
+  label: DOWNLOAD RESUME
   link: "#"
 experience:
   enable: true
