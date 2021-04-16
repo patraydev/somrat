@@ -16,7 +16,10 @@ experience:
   - name: Bar Manager
     company: The Violet Hour
     duration: 2016-2020
-    content: 'I created a digital archive of all 1000+ menu recipes, '
+    content: |-
+      One of the oldest and most successful second-wave 'speakeasy' style cocktail lounges, with a nationally-acclaimed bar program.
+
+      I brought the program into the 21st century by leveraging technology to optimize inventory management, purchasing, and recipe archiving.
 skill:
   enable: true
   title: SKILL
