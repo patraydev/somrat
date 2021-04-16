@@ -5,6 +5,7 @@ image: images/portfolio/item3.jpg
 categories:
 - Bicycles
 - Database
+- Chicago
 description: Bike Shop Inventory App
 project_info:
 - name: Project Link
