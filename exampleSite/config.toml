@@ -78,11 +78,9 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/patraydev"
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/pat-ray/"
