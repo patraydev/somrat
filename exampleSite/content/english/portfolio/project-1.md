@@ -2,7 +2,9 @@
 title: Chi-Vax-Trax
 date: 2020-04-21T06:14:34+00:00
 image: images/portfolio/item1.jpg
-categories: []
+categories:
+- Analytics
+- Chicago
 description: Chicago COVID Vaccine Tracker
 project_info:
 - name: Project Link
