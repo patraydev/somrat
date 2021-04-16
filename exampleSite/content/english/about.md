@@ -26,7 +26,7 @@ skill:
   skill_list:
   - name: React
     percentage: 92%
-  - name: Express
+  - name: Express / MongoDB
     percentage: 89%
   - name: Database Management
     percentage: 90%
