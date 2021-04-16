@@ -2,7 +2,9 @@
 title: 'Ciclo Urbano '
 date: 2021-03-16T06:14:34+00:00
 image: images/portfolio/item3.jpg
-categories: []
+categories:
+- Bicycles
+- Database
 description: Bike Shop Inventory App
 project_info:
 - name: Project Link
