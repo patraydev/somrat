@@ -4,7 +4,7 @@ image: images/backgrounds/portrait.jpg
 button:
   enable: true
   label: DOWNLOAD RESUME
-  link: "#"
+  link: 'resume/pat_ray_tech_resume.pdf '
 experience:
   enable: true
   title: EXPERIENCE
