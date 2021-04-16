@@ -26,8 +26,8 @@ skill:
   skill_list:
   - name: React
     percentage: 92%
-  - name: Graphic Design
-    percentage: 85%
+  - name: Express
+    percentage: 89%
   - name: Database Management
     percentage: 90%
   - name: Wordpress
