@@ -8,7 +8,7 @@ funfacts:
 - name: HAPPY INSTRUCTORS
   image: images/icons/happy.png
   count: "4"
-- name: FINISHED PROJECT
+- name: FINISHED PROJECTS
   image: images/icons/project.png
   count: "4"
 - name: CUPS OF COFFEE
