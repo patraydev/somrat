@@ -8,7 +8,7 @@ description: Cocktail Build Beautifier
 project_info:
 - name: Project Link
   icon: fas fa-link
-  content: https://loving-blackwell-aaa5c1.netlify.app/beatuifier
+  content: https://loving-blackwell-aaa5c1.netlify.app/
 
 ---
 #### Project Details
