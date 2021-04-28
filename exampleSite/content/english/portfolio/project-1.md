@@ -1,10 +1,8 @@
 ---
 title: Chi-Vax-Trax
-date: 2020-04-21T06:14:34+00:00
+date: 2020-04-21T06:14:34.000+00:00
 image: images/portfolio/item1.jpg
-categories:
-- Analytics
-- Chicago
+categories: []
 description: Chicago COVID Vaccine Tracker
 project_info:
 - name: Project Link
@@ -21,3 +19,11 @@ This project will pull data from the city of Chicago Open Data Project and creat
 MVP will be a display of the percent of Chicago population vaccinated, updated on a daily basis, followed by a tabular listing of all zip codes and percentages.
 
 PostMVP will add expandable data on each zip code and a search bar.
+
+#### Deployed Link
+
+[https://patraydev.github.io](https://patraydev.github.io "https://patraydev.github.io")
+
+#### Source Code
+
+[https://github.com/patraydev/patraydev.github.io](https://github.com/patraydev/patraydev.github.io "https://github.com/patraydev/patraydev.github.io")
