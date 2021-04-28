@@ -22,7 +22,7 @@ experience:
 
       I brought the program into the 21st century by leveraging technology to optimize inventory management, purchasing, and recipe archiving.
 skill:
-  enable: true
+  enable: false
   title: SKILL
   skill_list:
   - name: React
