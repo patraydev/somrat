@@ -1,6 +1,6 @@
 ---
 title: 'Ciclo Urbano '
-date: 2021-03-16T06:14:34+00:00
+date: 2021-03-16T06:14:34.000+00:00
 image: images/portfolio/item3.jpg
 categories:
 - Bicycles
@@ -25,3 +25,12 @@ For this project we worked with West Town Bikes, a Chicago area youth-focused no
 * Responsive design
 * Navigation bar
 * Search bar
+* 
+
+#### Deployed Link
+
+[https://hungry-agnesi-3dd2fb.netlify.app/](https://hungry-agnesi-3dd2fb.netlify.app/ "https://hungry-agnesi-3dd2fb.netlify.app/")
+
+#### Source Code
+
+[https://github.com/ciclo-urbano/Ciclo-Urbano](https://github.com/ciclo-urbano/Ciclo-Urbano "https://github.com/ciclo-urbano/Ciclo-Urbano")

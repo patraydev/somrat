@@ -2,8 +2,7 @@
 title: Cocktail Build Beautifier
 date: 2020-05-12T12:14:34.000+06:00
 image: images/portfolio/item2.jpg
-categories:
-- Cocktails
+categories: []
 description: Cocktail Build Beautifier
 project_info:
 - name: Project Link
@@ -33,3 +32,11 @@ This app will provide an opinionated tool for formatting of raw cocktail recipe 
 * Implement swipe to mobile
 * Log stats of cocktails/menus beautified
 * Create progress dashboard
+
+#### Deployed Link
+
+[https://loving-blackwell-aaa5c1.netlify.app/](https://loving-blackwell-aaa5c1.netlify.app/ "https://loving-blackwell-aaa5c1.netlify.app/")
+
+#### Source Code
+
+[https://github.com/patraydev/build-beautifier](https://github.com/patraydev/build-beautifier "https://github.com/patraydev/build-beautifier")
