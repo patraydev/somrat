@@ -1,11 +1,9 @@
 ---
 title: TOME
-date: 2021-03-30T05:00:00+00:00
+date: 2021-03-30T05:00:00.000+00:00
 image: images/portfolio/item4.jpg
-categories:
-- Cocktails
-- " Database"
-description: TOME cocktail database
+categories: []
+description: cocktail database
 project_info:
 - name: Project Link
   icon: fas fa-link
@@ -25,3 +23,11 @@ project_info:
 * _Implement user libraries_
 * _Implement pending changes/admin approval for edit & delete_
 * _App is easy to use and intuitive_
+
+#### Deployed Link
+
+[https://tometometome.surge.sh/](https://tometometome.surge.sh/ "https://tometometome.surge.sh/")
+
+#### Source Code
+
+[https://github.com/patraydev/tome](https://github.com/patraydev/tome "https://github.com/patraydev/tome")
